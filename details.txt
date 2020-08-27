@@ -1,0 +1,1 @@
+Programs for Palindrome, Prime NUmber, Factorial, String reversal, removing duplicates from a list etc.
