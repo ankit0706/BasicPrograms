@@ -1,7 +1,11 @@
 package com.sample.basics;
 
 import java.util.Scanner;
-
+/**
+Takes a number from command prompt using the Scanner class
+and calculates the factorial of that number, using a for loop
+which runs in reverse order
+**/
 public class Factorial {
 	public static void main(String[] args) {
 		Factorial factorial = new Factorial();
