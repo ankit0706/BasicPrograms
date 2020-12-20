@@ -1,7 +1,9 @@
 package com.sample.operations;
 
 import java.util.ArrayList;
-
+/**
+Demonstration for array index out of bound
+*/
 public class ArrayIndexOutofBound {
 	public static void main(String[] args) {
 		ArrayList<String> mList = new ArrayList<>();
