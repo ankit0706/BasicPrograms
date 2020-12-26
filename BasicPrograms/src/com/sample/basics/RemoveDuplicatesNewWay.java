@@ -4,6 +4,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+Removing duplicates from a collection using stream api methods
+*/
 public class RemoveDuplicatesNewWay {
 	public static void main(String[] args) {
 		String[] strArr = {"lg", "samsung", "motorola", "apple", "lg"};
